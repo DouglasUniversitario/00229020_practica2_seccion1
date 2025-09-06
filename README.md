@@ -1,1 +1,1 @@
-# 00229020_practica2_seccion1
+# 10. la diferencia entre grid y flexbox es que en flexbox para crear un mockup de una pagina web tu tienes que hacer div tras div haciendolo tedioso y con grid tu solo secciones partes de la pagina.
